@@ -1,0 +1,16 @@
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\bin\Debug\net5.0\learningCsharp 2.exe
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\bin\Debug\net5.0\learningCsharp 2.deps.json
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\bin\Debug\net5.0\learningCsharp 2.runtimeconfig.json
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\bin\Debug\net5.0\learningCsharp 2.runtimeconfig.dev.json
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\bin\Debug\net5.0\learningCsharp 2.dll
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\bin\Debug\net5.0\learningCsharp 2.pdb
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\obj\Debug\net5.0\learningCsharp 2.csproj.AssemblyReference.cache
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\obj\Debug\net5.0\learningCsharp 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\obj\Debug\net5.0\learningCsharp 2.AssemblyInfoInputs.cache
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\obj\Debug\net5.0\learningCsharp 2.AssemblyInfo.cs
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\obj\Debug\net5.0\learningCsharp 2.csproj.CoreCompileInputs.cache
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\obj\Debug\net5.0\learningCsharp 2.dll
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\obj\Debug\net5.0\refint\learningCsharp 2.dll
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\obj\Debug\net5.0\learningCsharp 2.pdb
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\obj\Debug\net5.0\learningCsharp 2.genruntimeconfig.cache
+C:\Users\Cole\Program Projects\Learning Zone\cSharp\learningCsharp 2\obj\Debug\net5.0\ref\learningCsharp 2.dll
